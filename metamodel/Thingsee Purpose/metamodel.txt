@@ -201,6 +201,7 @@ Transition
 ==========================
 Constraints
 ==========================
+Property "Name" in State must have unique values
 
 ==========================
 Subgraphs
