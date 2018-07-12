@@ -30,7 +30,7 @@ Role Types
 Extra Types
 ==========================
 Thingsee Purpose
-	Thingsee application describes the state-based logic of the application. In addition to state and transitions the application consist of triggers that cause transitions and actions that are performed during transitions.
+	Thingsee application describes the state-based logic of the application. In addition to states and transitions the application consist of triggers that cause transitions and actions that are performed during transitions.
 	---------------------------------------------
 	Name: String
 		Name of the application (also called purpose).
