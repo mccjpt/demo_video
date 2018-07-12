@@ -21,14 +21,6 @@ Object: SMS555-5555(Too dry. Water needed.) <Action> 23_1121
 	Object: 555-5555(Too dry. Water needed.) <Send SMS message> 23_1139
 		To (phone number): 555-5555
 		Message: Too dry. Water needed.
-Object: Thingsee Purpose is based on the sensors and services of Internet of Things device Thingsee.  The language allows to use various sensors (Accelerator, Timer, Geofence, Location, Speed, Temperature, Humidity, Pressure, Luminance) and interact with the world via services (cloud, mobile, sms). Language provides also capabilities to follow the status of the device like its batter level and charging status.  The language guides creating applications as well as checks if they try to monitor the device in unsafe situations (too warm, too big G forces).
-
-Generator produces the jsn code that can be uploaded to the IoT device and executed there. <Comment> 23_1808
-	Description: Thingsee Purpose is based on the sensors and services of Internet of Things device Thingsee.  The language allows to use various sensors (Accelerator, Timer, Geofence, Location, Speed, Temperature, Humidity, Pressure, Luminance) and interact with the world via services (cloud, mobile, sms). Language provides also capabilities to follow the status of the device like its batter level and charging status.  The language guides creating applications as well as checks if they try to monitor the device in unsafe situations (too warm, too big G forces).
-
-Generator produces the jsn code that can be uploaded to the IoT device and executed there.
-Object: This application monitors when sauna is ready. <Comment> 23_1821
-	Description: This application monitors when sauna is ready.
 Object: <40 %rh <Humidity> 23_1073
 	Trigger if over (%rh): 
 	Trigger if under (%rh): 40

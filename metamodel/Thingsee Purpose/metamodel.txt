@@ -157,7 +157,7 @@ Action
 PollTrigger
 	Log values to device: Boolean
 	Poll values after every: String
-		Polling value in seconds is a mandatory value.
+		Polling value in seconds is a mandatory value
 		---------------------------------------------
 	Poll unit: String
 Trigger

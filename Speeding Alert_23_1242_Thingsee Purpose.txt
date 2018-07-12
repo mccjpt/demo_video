@@ -13,14 +13,6 @@ Object: cloud, SMS555-5555(The kid speeding!) <Action> 23_1299
 	Object: 555-5555(The kid speeding!) <Send SMS message> 23_1317
 		To (phone number): 555-5555
 		Message: The kid speeding!
-Object: Thingsee Purpose is based on the sensors and services of Internet of Things device Thingsee.  The language allows to use various sensors (Accelerator, Timer, Geofence, Location, Speed, Temperature, Humidity, Pressure, Luminance) and interact with the world via services (cloud, mobile, sms). Language provides also capabilities to follow the status of the device like its batter level and charging status.  The language guides creating applications as well as checks if they try to monitor the device in unsafe situations (too warm, too big G forces).
-
-Generator produces the jsn code that can be uploaded to the IoT device and executed there. <Comment> 23_1808
-	Description: Thingsee Purpose is based on the sensors and services of Internet of Things device Thingsee.  The language allows to use various sensors (Accelerator, Timer, Geofence, Location, Speed, Temperature, Humidity, Pressure, Luminance) and interact with the world via services (cloud, mobile, sms). Language provides also capabilities to follow the status of the device like its batter level and charging status.  The language guides creating applications as well as checks if they try to monitor the device in unsafe situations (too warm, too big G forces).
-
-Generator produces the jsn code that can be uploaded to the IoT device and executed there.
-Object: Application monitors the speed of the vehicle and sends SMS if driving in high speed. <Comment> 23_1828
-	Description: Application monitors the speed of the vehicle and sends SMS if driving in high speed.
 Object: >120  km/h <Speed> 23_1289
 	Trigger if over (km/h): 120
 	Trigger if under (km/h): 
