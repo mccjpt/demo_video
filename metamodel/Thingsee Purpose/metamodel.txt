@@ -18,7 +18,7 @@ State
 	State of the application.
 	---------------------------------------------
 	Name: String
-		Name of the state.
+		Name of the state is mandatory.
 		---------------------------------------------
 	Start state: Boolean
 	Always active: Boolean
